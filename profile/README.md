@@ -1,5 +1,5 @@
 # Our Links
-![Discord](https://img.shields.io/discord/122861010469440718?style=for-the-badge&logo=discord&logoColor=blue&label=Discord&labelColor=%23454545&color=%23494949)
+![Discord](https://img.shields.io/discord/1228610104694407189?style=for-the-badge&logo=discord&logoColor=blue&label=Discord&labelColor=%23454545&color=%23494949)
 
 # Our Team
 <div align="center">
